@@ -10,6 +10,8 @@ Some corporate owned properties may be flips, or bought and sold quickly by an L
 
 There are some single family home rentals owned by individuals. These are not identified in this project. 
 
+Block groups with fewer than 5 eligible properties were excluded from the map. 
+
 Data source is Dallas County appraisal district data. Processed in Python. 
 
 ## Contact
